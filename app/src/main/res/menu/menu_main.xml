@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.xayne.wefixitproject.MainActivity">
+    <item
+        android:id="@+id/action_aboutus"
+        android:orderInCategory="101"
+        android:title="@string/action_aboutus"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_contactus"
+        android:orderInCategory="101"
+        android:title="@string/action_contactus"
+        app:showAsAction="never" />
+</menu>

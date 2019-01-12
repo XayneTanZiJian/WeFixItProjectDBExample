@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WeFixItProject</string>
+    <string name="action_contactus">Contact Us</string>
+    <string name="action_aboutus">About Us</string>
+    <string name="services">Services</string>
+    <string name="text_alcohol">Alcohol</string>
+    <string name="text_coffee">Coffee</string>
+    <string name="text_pasta">Pasta</string>
+    <string name="text_cold_drinks">Cold Drinks</string>
+    <string name="text_expanded">Expanded</string>
+    <string name="text_collapsed">Collapsed</string>
+    <string name="text_aboutUs">ABOUT US</string>
+    <string name="aboutCont">We Fix it is a a company that provides .......</string>
+    <string name="wrench">wrench</string>
+    <string-array name="service_list">
+        <item>Plumbing</item>
+        <item>Electricity</item>
+        <item>Cleaning</item>
+        <item>Pest Removal</item>
+        <item>Electronic Appliances</item>
+    </string-array>
+
+    <string-array name="string_array_alcohol">
+        <item>Vodka</item>
+        <item>Rum</item>
+        <item>Whiskey</item>
+        <item>Gin</item>
+        <item>Tequila</item>
+    </string-array>
+
+    <string-array name="string_array_coffee">
+        <item>Espresso</item>
+        <item>Macchiato</item>
+        <item>Cappuccino</item>
+        <item>Cafe Latte</item>
+        <item>Ristretto</item>
+    </string-array>
+
+    <string-array name="string_array_pasta">
+        <item>Carbonara</item>
+        <item>Capellini</item>
+        <item>Spaghetti</item>
+        <item>Gnocchi</item>
+        <item>Lasagnette</item>
+    </string-array>
+
+    <string-array name="string_array_cold_drinks">
+        <item>Cola</item>
+        <item>Lemonade</item>
+        <item>Citrus soda</item>
+        <item>Juice</item>
+        <item>Sparkling Water</item>
+    </string-array>
+</resources>
